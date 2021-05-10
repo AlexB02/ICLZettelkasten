@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "f174b2550d54c534",
+    "type": "split",
+    "children": [
+      {
+        "id": "596355d5e1fb778b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "40008/Directed Graph.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "162049402cf764c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e747f6ab9433fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc266ea9bfc0e23d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "694cb97fa04b7149",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8184ac95743dc8f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302
+  },
+  "right": {
+    "id": "765887254f70e1a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7058d67cec6b80d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad89c38026983c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "40008/Directed Graph.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87cbfc49a8281099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ab92af64a510af3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40008/Directed Graph.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "596355d5e1fb778b",
+  "lastOpenFiles": [
+    "40008/Directed Graph.md",
+    "Register FIle.md",
+    "40005/Register File.md",
+    "Program Counter.md",
+    "40009/Data Type.md",
+    "Untitled.md",
+    "40008/MST Algorithm.md",
+    "40008/Path.md",
+    "40008/Routing Table.md",
+    "40008/Shortest Path Algorithm.md"
+  ]
+}
